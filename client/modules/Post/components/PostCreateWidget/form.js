@@ -1,0 +1,1 @@
+const form = new LoginForm({ fields }, { plugins });
